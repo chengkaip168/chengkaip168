@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Analysis, Policy Analysis, Machine Learning, and AI
 - 🌱 Python, Java, JavaScript, and MySQL
 - 💞️ I’m looking to collaborate on my Linkedin: https://www.linkedin.com/in/chengkai-pan168/
-- 📫 How to reach me chengkai.pan@vanderbilt.edu
+- 📫 How to reach me: chengkai.pan@vanderbilt.edu
