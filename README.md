@@ -9,7 +9,4 @@ I look for student research and data/policy analysis work. I write code when the
 - [stock-analysis](https://github.com/chengkaip168/stock-analysis) — Python tool for market data, indicators, and charts
 - [visualworkingmemorytest](https://github.com/chengkaip168/visualworkingmemorytest) — web experiment that presents stimuli and records responses
 
-**Policy writing** (spreadsheets and memos, not code)  
-Add the Drive or repo link here after Step 8.
-
 [LinkedIn](https://www.linkedin.com/in/chengkai-pan168/) · chengkai.pan@vanderbilt.edu
