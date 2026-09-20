@@ -5,7 +5,7 @@ Sophomore at Vanderbilt University. B.A. in Political Science and Computer Scien
 I look for student research and data/policy analysis work.
 
 **Projects**
-- [Chantutor](https://github.com/chengkaip168/Chantutor) — SHSAT practice platform (TypeScript, Supabase)
+- [TestQueens](https://github.com/chengkaip168/TestQueens) — SHSAT practice platform (TypeScript, Supabase)
 - [stock-analysis](https://github.com/chengkaip168/stock-analysis) — Python tool for market data, indicators, and charts
 - [visualworkingmemorytest](https://github.com/chengkaip168/visualworkingmemorytest) — web experiment that presents stimuli and records responses
 
