@@ -1,6 +1,6 @@
 # ChengKai Pan
 
-Sophomore at Vanderbilt University. Political Science and Computer Science, minor in National Security.
+Sophomore at Vanderbilt University. B.S. in Political Science and Computer Science, minor in National Security.
 
 I look for student research and data/policy analysis work. I write code when the problem needs it. I write briefs when it does not.
 
